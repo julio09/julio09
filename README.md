@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Julio and I'm a Front-End develloper from Madagascar 🇲🇬</h2>
+<h2 align="left">Hi 👋, I'm Julio, A passionate frontend developer from Madagascar</h2>
 
 ###
 
@@ -47,3 +47,8 @@
 </div>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julio09&show_icons=true&locale=en&layout=compact" alt="julio09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julio09&show_icons=true&locale=en" alt="julio09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julio09&" alt="julio09" /></p>
