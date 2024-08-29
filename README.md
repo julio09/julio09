@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Julio, A passionate frontend developer from Madagascar</h2>
+<h2 align="left">Hi 👋, I'm Julio, A passionate Fullstack JS developer from Madagascar</h2>
 
 ###
 
